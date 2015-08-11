@@ -1,0 +1,12 @@
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\bin\Debug\Windows3-2.exe.config
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\bin\Debug\Windows3-2.exe
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\bin\Debug\Windows3-2.pdb
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3-2.csprojResolveAssemblyReference.cache
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3_2.Form1.resources
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3_2.Properties.Resources.resources
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3-2.csproj.GenerateResource.Cache
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3-2.exe
+H:\arduino\机械手\图形界面\屏三\Windows3-2\Windows3-2\obj\Debug\Windows3-2.pdb
+H:\arduino\机械手\图形界面\屏三\windows\Windows3-2\Windows3-2\bin\Debug\Windows3-2.exe.config
+H:\arduino\机械手\图形界面\屏三\windows\Windows3-2\Windows3-2\obj\Debug\Windows3-2.exe
+H:\arduino\机械手\图形界面\屏三\windows\Windows3-2\Windows3-2\obj\Debug\Windows3-2.pdb
